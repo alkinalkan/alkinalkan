@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
 <p align="center">
-<img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6"
+<img src="https://tenor.com/view/pc-banging-coding-swe19-programming-gif-19008194"
 </p>
 
 <h3 align="left">Connect with me:</h3>
