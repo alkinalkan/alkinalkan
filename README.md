@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋</h1>
 
-<img class="centerImage" height="350" width="520" src="https://64.media.tumblr.com/485fb763613b1685e16ac70f8f88d795/f363e2f36ecaa429-6c/s1280x1920/88ceba4801a7af080a017c507c9170d454e7683f.gif" alt="#ghost in the shell from anime.gif">
+<img class="center" height="350" width="520" src="https://64.media.tumblr.com/485fb763613b1685e16ac70f8f88d795/f363e2f36ecaa429-6c/s1280x1920/88ceba4801a7af080a017c507c9170d454e7683f.gif" alt="#ghost in the shell from anime.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
