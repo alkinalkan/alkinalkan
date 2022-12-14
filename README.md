@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
-  <p align="center">
-<img src="[https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)"
+<p align="center">
+<img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6"
 </p>
 
 <h3 align="left">Connect with me:</h3>
