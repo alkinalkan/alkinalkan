@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋</h1>
-  
-  <iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+
+  <p align="center">
+<img src="[https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)"
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
