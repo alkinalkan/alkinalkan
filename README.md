@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alkinalkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alkinalkan" height="30" width="40" /></a>
-<a href="mailto:alkin.alkan@outlook.com"> <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:alkin.alkan@outlook.com"> <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Python" width="40" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 </p>
 
