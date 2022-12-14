@@ -2,6 +2,13 @@
 
 <img class="center" height="350" width="520" src="https://64.media.tumblr.com/485fb763613b1685e16ac70f8f88d795/f363e2f36ecaa429-6c/s1280x1920/88ceba4801a7af080a017c507c9170d454e7683f.gif" alt="#ghost in the shell from anime.gif">
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alkinalkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alkinalkan" height="30" width="40" /></a>
