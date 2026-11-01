@@ -15,7 +15,3 @@
 </p>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkinalkan&show_icons=true&theme=dark&locale=en" alt="Alkin's GitHub Stats" />
-</div>
